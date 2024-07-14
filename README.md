@@ -1,2 +1,2 @@
 # DYNQUAL
-This repository contains all the information to install and simulate the model DYNQUAL
+This repository contains all the information to use the model DYNQUAL
